@@ -1,4 +1,4 @@
-#Expanding Cards Project!
+#H1 Expanding Cards Project!
 ###A little project of some expanding cards, with HTML, CSS and some JavaScript
 
 In the HTML file, I made one div with a container class and a panel class.
